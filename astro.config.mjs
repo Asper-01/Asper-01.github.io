@@ -5,6 +5,6 @@ export default defineConfig({
   base: '', // Chemin de base du site, par défaut à la racine
   
   pages: {
-    '/': './src/pages/index.astro', // Chemin vers votre page d'accueil
+    '/': 'src/pages/index.astro', // Chemin vers votre page d'accueil
   },
 })
