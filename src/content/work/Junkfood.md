@@ -22,7 +22,7 @@ tags:
 
 
 ### Junkfood:
-- Using the agile method with sprints.
+- Using the agile method with sprints !
 - Creation of the wireframe and the mock-up.
 - MCD method to conceptualize the database, creation, Table join.
 - Creation of a user interface with a management solution.
