@@ -55,7 +55,7 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
-          github_token: ${{ secrets.astro }}
+          github_token: ${{ secrets.ASTRO }}
           publish_dir: dist
           enable_jekyll: false
         env:

@@ -4,7 +4,7 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/BetFriends.jpg
 img_alt: Betfriends site logo
 description: |
-  Free online betting to challenge your friends and see who will be the best!
+  Free online betting, to challenge your friends and see who will be the best!
 tags:
   - Le Wagon
   - Ruby on rails

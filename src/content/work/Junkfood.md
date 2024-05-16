@@ -2,7 +2,7 @@
 title: Junkfood !
 publishDate: 2019-12-01 00:00:00
 img: /assets/junkfood.jpg
-img_alt: Junkfood site
+img_alt: Junkfood site !
 description: |
   My certification project (Rncp 4) in PHP, e-commerce site from sratch and without framework.
 tags:
