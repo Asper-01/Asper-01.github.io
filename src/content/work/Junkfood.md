@@ -5,7 +5,7 @@ img: /assets/junkfood.jpg
 img_alt: Junkfood site !
 description: |
   My certification project (Rncp 4) in PHP, e-commerce site from scratch and without framework.
-  the JUNKFOOD site is an e-commerce solution allowing a restaurateur to manage and sell his dishes.
+  JUNKFOOD website is an e-commerce solution allowing a restaurateur to manage and sell his dishes.
 
 tags:
   - PHP
