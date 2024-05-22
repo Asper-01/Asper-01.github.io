@@ -4,13 +4,16 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/BetFriends.jpg
 img_alt: Betfriends site logo
 description: |
-  Free online betting, to challenge your friends and see who will be the best!
+  My certification project (Rncp 6). An application in Ruby on rails and JavaScript.
+  Free online betting, to challenge your friends and see who will be the best !
 tags:
   - Le Wagon
   - Ruby on rails
   - Application web
   - Javascript
 ---
+
+##### Open the link to discover the features on Github
 
 <div style="text-align:center;">
   <a href="https://github.com/Asper-01/BetFriends" target="_blank" rel="noreferrer">
